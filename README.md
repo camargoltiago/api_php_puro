@@ -1,61 +1,63 @@
-### HOW TO: Get data by id:
+#### HOW TO: Get data by id:
 
-### METHOD: GET
+#### METHOD: GET
 
-### URI: https://api_php_puro.laragon/api/get.php
+#### URI: https://api_php_puro.laragon/api/get.php
 
-### PARAM: id
+#### PARAM: id
 
-### EXAMPLE: https://api_php_puro.laragon/api/get.php?id=1
+#### EXAMPLE: https://api_php_puro.laragon/api/get.php?id=1
 
-### HOW TO: Get all data
+#### HOW TO: Get all data
 
-### METHOD: GET
+#### METHOD: GET
 
-### URI: https://api_php_puro.laragon/api/getall.php
+#### URI: https://api_php_puro.laragon/api/getall.php
 
-### HOW TO: Insert new data
+#### HOW TO: Insert new data
 
-### METHOD: POST
+#### METHOD: POST
 
-### URI: https://api_php_puro.laragon/api/insert.php
+#### URI: https://api_php_puro.laragon/api/insert.php
 
-### PARAM: id, title, body
+#### PARAM: id, title, body
 
-### EXAMPLE: {
+#### EXAMPLE:
 
+{
 'id': 1,
 'title': 'My Title',
 'body: 'Mybody'
 }
 
-### HOW TO: Alter data
+#### HOW TO: Alter data
 
-### METHOD: PUT
+#### METHOD: PUT
 
-### URI: https://api_php_puro.laragon/api/update.php
+#### URI: https://api_php_puro.laragon/api/update.php
 
-### PARAM: id, title, body
+#### PARAM: id, title, body
 
-### EXAMPLE: {
+#### EXAMPLE:
 
+{
 'id': 1,
 'title': 'My Title',
 'body: 'Mybody'
 }
 
-### HOW TO: Delete data by id
+#### HOW TO: Delete data by id
 
-### METHOD: DELETE
+#### METHOD: DELETE
 
-### URI: https://api_php_puro.laragon/api/delete.php
+#### URI: https://api_php_puro.laragon/api/delete.php
 
-### PARAM: id
+#### PARAM: id
 
-### EXAMPLE: https://api_php_puro.laragon/api/delete.php?id=1
+#### EXAMPLE: https://api_php_puro.laragon/api/delete.php?id=1
 
-### HOW TO: Api Test
+#### HOW TO: Api Test
 
-### METHOD: GET
+#### METHOD: GET
 
-### URI: https://api_php_puro.laragon/api/ping.php
+#### URI: https://api_php_puro.laragon/api/ping.php
