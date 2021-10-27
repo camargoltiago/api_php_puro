@@ -38,4 +38,4 @@ HOW TO:  Api Test
 METHOD:  GET
 URI:     https://api_php_puro.laragon/api/ping.php
 
-FOR CREATING THE DATABASE LOOK INTO FILE: create_database.php
+FOR CREATING THE DATABASE LOOK INTO THE FILE: create_database.php
